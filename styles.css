@@ -1,0 +1,11 @@
+.jumbotron{
+    background-color: white;
+}
+
+img{
+    max-height: 500px;
+}
+
+.card{
+    max-width: 500px;
+}
